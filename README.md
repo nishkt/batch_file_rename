@@ -15,4 +15,12 @@ If a folder looks like the following:
 
 One can rename all files by selecting all the files, pressing F2, and renaming it to the desired file name. All the files will be renamed with a "(1)" with the corresponding number in the file. An example is shown below
 
+![github2](https://user-images.githubusercontent.com/11956034/149408652-73900f2f-0a6a-49de-be58-be54d1e5ee61.png)
+
+However, this naming convention is not enough. We need it to look like the following -> MTG_RNJ_002095_0001 and so on. This is where step two comes in
+
+2. Use the VBScript to finalize the name of all the files
+
+By downloading the VBScript and double clicking it, the files will be renamed to MTG_RNJ_002095_0001, MTG_RNJ_002095_0002, etc. The Path (Set Folder in VBScript) in the VBScript needs to be changed by right clicking the file, and clicking "Edit". The final files will be renamed as shown in the image below:
+
 
