@@ -23,4 +23,10 @@ However, this naming convention is not enough. We need it to look like the follo
 
 By downloading the VBScript and double clicking it, the files will be renamed to MTG_RNJ_002095_0001, MTG_RNJ_002095_0002, etc. The Path (Set Folder in VBScript) in the VBScript needs to be changed by right clicking the file, and clicking "Edit". The final files will be renamed as shown in the image below:
 
+![github3](https://user-images.githubusercontent.com/11956034/149410470-ebebee99-b307-4fe4-8179-5592fd6810b6.png)
 
+
+Improvements to be made with current process:
+1. Process is long. vbscript should include both the processes mentioned above
+2. Need to execute this process for each folder. need to write script to make changes to file name to multiple folders
+3. If there are 10 or more files, then the 10th and above file will be renamed as "MTG_RNJ_002095_00010" when it should be "MTG_RNJ_002095_0010"
