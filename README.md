@@ -12,3 +12,7 @@ The process can be seen below:
 If a folder looks like the following:
 
 ![github1](https://user-images.githubusercontent.com/11956034/149407997-b0795fcd-c10e-4c87-aca9-7a4ab3358982.png)
+
+One can rename all files by selecting all the files, pressing F2, and renaming it to the desired file name. All the files will be renamed with a "(1)" with the corresponding number in the file. An example is shown below
+
+
