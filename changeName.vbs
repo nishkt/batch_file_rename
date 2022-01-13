@@ -1,6 +1,6 @@
 Set objFso = CreateObject("Scripting.FileSystemObject")
 
-Set Folder = objFSO.GetFolder("\\lib-nas-pri.cntrlsrvs.w2k.vt.edu\dips\In_Process\01_To_Process\Montgomery_Museum_Microfilm\2014_69_36_S\MTG_RNJ_002095\MTG_RNJ_002095_Access")
+Set Folder = objFSO.GetFolder("<ENTER FILE PATH HERE>")
 
 For Each File In Folder.Files
 
